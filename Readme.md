@@ -1,7 +1,7 @@
 ## Stable Diffusion 3 Low VRAM
 
 I want a quick way to run [SD3 medium](https://huggingface.co/stabilityai/stable-diffusion-3-medium) on my NVIDIA RTX 3060 6GB laptop GPU.
-Probably this will work 2GB graphics card too.
+Probably this will work with as 2GB graphics card too.
 
 ![SD3 LOW VRAM](https://raw.githubusercontent.com/rupeshs/sd3-low-vram/main/sd3-lowvram.png)
 ## How to run?

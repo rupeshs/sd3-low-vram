@@ -52,7 +52,7 @@ def infer(
 
 examples = [
     "A cat holding a sign that says hello world",
-    "An astronaut riding a green horse",
+    "A cute dog wearing hoodie",
     "A beautiful girl waving hand ",
 ]
 
@@ -123,7 +123,7 @@ with gr.Blocks(css=css) as demo:
                     minimum=0.0,
                     maximum=10.0,
                     step=0.1,
-                    value=7.0,
+                    value=5.0,
                 )
 
                 num_inference_steps = gr.Slider(
