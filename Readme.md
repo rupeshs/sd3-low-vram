@@ -16,8 +16,9 @@ running :
 
 `set HF_HOME=D:/mycache`
 
-## Tested On
+## Test Environment
 
-- Windows 11
+- Windows 10
 - System RAM - 16GB
-- NVIDIA RTX 3060 Laptop GPU
+- GPU - NVIDIA RTX 3060 Laptop 
+- Python 3.10.10
